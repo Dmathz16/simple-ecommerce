@@ -15,8 +15,8 @@ Some descriptions...
 ## Applications
 • Database (MySQL)  
 • Backend 
-  • Flask
-• Frontend 
+  • Flask 
+• Frontend  
   • ReactJs  
 
 ## Users
