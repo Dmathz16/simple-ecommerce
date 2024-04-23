@@ -15,15 +15,15 @@ Some descriptions...
 ## Applications
 1. Database (MySQL)
 2. Backend
-   • Flask
-   • ...
+   * Flask
+   * ...
 3. Frontend
-   • ReactJs
-   • ...
+   * ReactJs
+   * ...
 
 ## Users
-• Buyer  
-• Seller
+* Buyer  
+* Seller
 
 ## Development
 1. Planning [From: **04/23/24** To:**...**]
