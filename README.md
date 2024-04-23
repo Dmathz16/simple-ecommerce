@@ -13,11 +13,11 @@ Some descriptions...
 9. Responsive Design for Mobile Devices
 
 ## Applications
-• Database (MySQL)  
-• Backend  
-  • Flask  
-• Frontend   
-  • ReactJs  
+• Database (MySQL) 
+• Backend 
+  ○ Flask 
+• Frontend 
+  ○ ReactJs 
 
 ## Users
 • Buyer  
