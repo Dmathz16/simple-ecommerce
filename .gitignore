@@ -1,0 +1,8 @@
+# frontend 
+frontend/node_modules/*
+
+# backend
+backend/application/__pycache__/*
+backend/application/apis/__pycache__/*
+
+# others
