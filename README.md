@@ -14,14 +14,12 @@ Some descriptions...
 
 ## Applications
 1. Database (MySQL)
-2. dwadwa
+2. Backend
    • Flask
-3. dawdwa
-   • dwadaw
-5.  Backend 
-• Flask 
-6.  Frontend 
-• ReactJs 
+   • ...
+3. Frontend
+   • ReactJs
+   • ...
 
 ## Users
 • Buyer  
