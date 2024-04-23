@@ -3,7 +3,7 @@
 ## How to run?
 1. Open cmd/terminal then cd to this project.
    ```cmd
-   cd PATH_OF_THE_PROJECT
+   cd PATH_OF_BACKEND
    ```
 2. Generate and activate virtual environment:
    ```cmd
