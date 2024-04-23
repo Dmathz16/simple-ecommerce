@@ -15,10 +15,16 @@ Some descriptions...
 ## Applications
 1. Database (MySQL)
 2. Backend
-   * Flask
+   * Flask [...]
+   * CodeIgniter [?]
+   * Laravel [?]
+   * ExpressJs [?]
+   * Rails [?]
    * ...
-3. Frontend
-   * ReactJs
+3. Frontend 
+   * Bootstrap [...]
+   * ReactJs [...]
+   * VueJs [?]
    * ...
 
 ## Users
