@@ -1,9 +1,9 @@
 # frontend 
-frontend/node_modules/*
+frontend/react/node_modules/*
 
 # backend
-backend/.venv/*
-backend/application/__pycache__/*
-backend/application/apis/__pycache__/*
+backend/flask/.venv/*
+backend/flask/application/__pycache__/*
+backend/flask/application/apis/__pycache__/*
 
 # others
