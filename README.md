@@ -1,7 +1,7 @@
 # Simple E-commerce Web Application
 
 ## Applications
-• Backend (Flask)
+• Backend (Flask)  
 • Frontend (ReactJs)
 
 ## Users
