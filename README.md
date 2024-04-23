@@ -13,10 +13,14 @@ Some descriptions...
 9. Responsive Design for Mobile Devices
 
 ## Applications
-1. Database (MySQL) 
-2.  Backend 
+1. Database (MySQL)
+2. dwadwa
+   • Flask
+3. dawdwa
+   • dwadaw
+5.  Backend 
 • Flask 
-3.  Frontend 
+6.  Frontend 
 • ReactJs 
 
 ## Users
