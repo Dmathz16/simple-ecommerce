@@ -28,7 +28,7 @@ Some descriptions...
    * ...
 
 ## Modules
-* Administrator
+* Administrator:
   * Authentication
   * Profile
   * Orders
@@ -39,7 +39,7 @@ Some descriptions...
   * User Roles
   * User Types
   * Configurations
-* Seller:
+* Customer:
   * Registration
   * Authentication
   * Profile 
