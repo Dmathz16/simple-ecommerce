@@ -27,9 +27,24 @@ Some descriptions...
    * VueJs [?]
    * ...
 
-## Users
-* Buyer  
-* Seller
+## Modules
+* Administrator
+  * Authentication
+  * Profile
+  * Orders
+  * Stocks
+  * Products
+  * Customers  
+  * Users
+  * User Roles
+  * User Types
+  * Configurations
+* Seller:
+  * Registration
+  * Authentication
+  * Profile 
+  * Cart 
+  * Orders 
 
 ## Development
 1. Planning [From: **04/23/24** To:**...**]
