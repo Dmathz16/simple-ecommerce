@@ -6,4 +6,5 @@ backend/flask/.venv/*
 backend/flask/application/__pycache__/*
 backend/flask/application/apis/__pycache__/*
 
-# others
+# others 
+README.md
