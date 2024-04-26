@@ -12,7 +12,7 @@ Some descriptions...
 8. Inventory Management
 9. Responsive Design for Mobile Devices
 
-## Applications
+## Stack
 1. Database (MySQL)
 2. Backend
    * Flask [...]
